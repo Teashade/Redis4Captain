@@ -1,4 +1,4 @@
 {
   "schemaVersion": 2,
-  "imageName" : "bitnami/redis:5.0-ol-7"
+  "imageName" : "bitnami/redis:5.0.7"
 }
